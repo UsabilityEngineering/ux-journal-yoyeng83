@@ -15,7 +15,7 @@ During my stay at Heritage Inn, I have a big issue with the bathroom fan system.
 ### Step 1: Turning on the Fan
 Upon entering the bathroom, I noticed a timer dial for the fan instead of a standard switch. I turned it on, expecting it to provide fresh air or at least improve airflow. Instead, after a few moments, I felt a surge of heat, making the room increasingly uncomfortable.
 
-> **Usability Concept: Affordance** – A well designed system should indicate its intended function clearly. A bathroom fan should provide ventilation, not a heater.
+> **Usability Concept: Affordance** – A well designed system should indicate its intended function clearly. A bathroom fan should provide ventilation, not a heater. If they can't even afford a more comfortable ventilation option to accomadate their guest, what makes customer come back after their first time?
 ### Step 2: Dealing with the Heat
 As I continued using the bathroom, the heat became unbearable. There was no window or alternative ventilation, and I was stuck sweating in a confined space. I tried adjusting the timer, but it only controlled how long the fan ran, not its function. I don't think this is how it is supposed to work, but Heritage Inn made it this way.
 
