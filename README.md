@@ -34,7 +34,7 @@ Eventually, I gave up and turned the fan off, choosing to endure without ventila
 
 ## Conclusion
 
-This experience show small design flaws can create major discomfort in everyday interactions with technology. A simple expectation—having a fan cool and ventilate a bathroom—was completely undermined by poor design choices. By improving usability and giving users control over their environment, Heritage Inn could significantly enhance their guests. If they can't even **afford** to switch this fan system, there won't be any regulars. Having regulars can help any business to succeed. 
+This experience show small design flaws can create major discomfort in everyday interactions with technology. A simple expectation, having a fan cool and ventilate a bathroom was completely undermined by poor design choices. By improving usability and giving users control over their environment, Heritage Inn could significantly enhance their guests experience. 
 
 ---
 
