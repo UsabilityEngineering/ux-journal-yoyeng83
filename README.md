@@ -4,7 +4,7 @@
 
 ## Introduction
 
-During my stay at Heritage Inn, I have a big issue with the bathroom fan system. Instead of providing proper **ventilation**, the fan, controlled by a timer, seemed to circulate **hot air**, making an already uncomfortable situation even worse. This experience made me reflect on how poorly designed environmental controls can significantly impact **User eXperience (UX)** in real-world spaces.
+During my stay at Heritage Inn, I have a big issue with the bathroom fan system. Instead of providing proper ventilation, the fan, controlled by a timer, seemed to circulate hot air, making an already uncomfortable situation even worse. This experience made me reflect on how poorly designed environmental controls can significantly impact user experince in the real world.
 
 
 
@@ -13,30 +13,28 @@ During my stay at Heritage Inn, I have a big issue with the bathroom fan system.
 ## The Interaction
 
 ### Step 1: Turning on the Fan
-Upon entering the bathroom, I noticed a timer dial for the fan instead of a standard switch. I turned it on, expecting it to provide fresh air or at least improve airflow. Instead, after a few moments, I felt a surge of **heat**, making the room increasingly uncomfortable.
+Upon entering the bathroom, I noticed a timer dial for the fan instead of a standard switch. I turned it on, expecting it to provide fresh air or at least improve airflow. Instead, after a few moments, I felt a surge of heat, making the room increasingly uncomfortable.
 
-> **Usability Concept: Affordance** – A well-designed system should indicate its intended function clearly. A bathroom fan should provide ventilation, not a heater.
+> **Usability Concept: Affordance** – A well designed system should indicate its intended function clearly. A bathroom fan should provide ventilation, not a heater.
 ### Step 2: Dealing with the Heat
-As I continued using the bathroom, the heat became unbearable. There was **no window or alternative ventilation**, and I was stuck sweating in a confined space. I tried adjusting the timer, but it only controlled how long the fan ran, not its function. I don't think this is how it is supposed to work, but Heritage Inn made it this way.
+As I continued using the bathroom, the heat became unbearable. There was no window or alternative ventilation, and I was stuck sweating in a confined space. I tried adjusting the timer, but it only controlled how long the fan ran, not its function. I don't think this is how it is supposed to work, but Heritage Inn made it this way.
 
 > **Usability Concept: Feedback** – Systems should communicate what they are doing. There was no clear indication that the fan was not actually ventilating air. A user should not have to guess whether turning it on will improve their experience or make it worse.
 
 ### Step 3: Ending the Suffering
-Eventually, I gave up and turned the fan off, choosing to endure without **ventilation**. This defeated the purpose of the fan, making it a **frustrating and ineffective** experience.
-
-> **Usability Concept: Efficiency** – A good design should help users achieve their goals with minimal effort. In this case, the fan system forced unnecessary discomfort while not pointing out there is a heating system involved. 
+Eventually, I gave up and turned the fan off, choosing to endure without ventilation. This defeated the purpose of the fan, making it a frustrating and ineffective experience. To be **effective**, A good design should help users achieve their goals with minimal effort. In this case, the fan system forced unnecessary discomfort while not pointing out there is a heating system involved. 
 
 ## Suggested Improvements
 
 1. **Replace the current system with an exhaust fan** that actually removes stale air instead of recirculating heat.
 2. **Install a manual ventilation option**, such as a vent that can be controlled separately from the fan.
-3. **Provide clear labels** near the fan timer explaining its function (e.g., "Heat circulation involved" if it doesn’t actually ventilate air).
+3. **Provide clear labels** near the fan timer explaining its function
 4. **Redesign the fan controls** to allow users to choose between heat and cooling functions rather than forcing a single, uncomfortable mode.
 5. **Introduce motion or humidity sensors** to automatically adjust airflow when needed instead of relying on a timer.
 
 ## Conclusion
 
-This experience show small design flaws can create major discomfort in everyday interactions with technology. A simple expectation—having a fan cool and ventilate a bathroom—was completely undermined by poor design choices. By improving usability and giving users **control over their environment**, Heritage Inn could significantly enhance their guests' **User eXperience** and comfort.
+This experience show small design flaws can create major discomfort in everyday interactions with technology. A simple expectation—having a fan cool and ventilate a bathroom—was completely undermined by poor design choices. By improving usability and giving users control over their environment, Heritage Inn could significantly enhance their guests. If they can't even **afford** to switch this fan system, there won't be any regulars. Having regulars can help any business to succeed. 
 
 ---
 
